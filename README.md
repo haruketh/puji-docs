@@ -4,9 +4,9 @@ description: ドキュメントはGitbookで公開しています。
 
 # PUJI Docs
 
-## About PUJI
+## PUJIについて
 
-PUJIとは、あれがあれです。 
+PUJIとは、あれがあれです。
 
 ### コントリビュートする方法
 
@@ -14,6 +14,4 @@ PUJIとは、あれがあれです。
 * aaa
 * aa
 * a
-
-
 
