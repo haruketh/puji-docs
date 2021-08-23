@@ -1,14 +1,14 @@
 ---
-description: This document is available on Gitbook.
+description: ドキュメントはGitbookで公開しています。
 ---
 
 # PUJI Docs
 
 ## About PUJI
 
-PUJI is .. a.... that one.
+PUJIとは、あれがあれです。 
 
-### How to Contribute
+### コントリビュートする方法
 
 * aaaa
 * aaa
