@@ -1,6 +1,6 @@
 # Table of contents
 
 * [PUJI Docs](README.md)
-* [ウェブサイト](website.md)
-* [スタンプ（ステッカー）](stamp.md)
+* [Página web](website.md)
+* [Pegatina](sticker.md)
 

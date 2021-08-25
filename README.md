@@ -1,18 +1,19 @@
 ---
-description: ドキュメントはGitbookで公開しています。
+description: Este documento está disponible en Gitbook.
 ---
 
 # PUJI Docs
 
-## PUJIについて
+## Sobre PUJI
 
-PUJIとは、あれがあれです。
+PUJI .. es .... eso.
 
-### コントリビュートする方法
+### ¿Cómo puedes contribuir?
 
-* Webデザイン
-* キャラクターデザイン
-* バナー作成
-* インフォグラフィック
-* スタンプを作る
+* Diseño web
+* Crear banner
+* Infografía
+* Hacer una pegatina
 * 
+
+
